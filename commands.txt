@@ -1,1 +1,7 @@
 hello this is my first commit
+
+git clone 
+
+git branch newbranch
+
+git pull
