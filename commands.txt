@@ -1,7 +1,1 @@
 hello this is my first commit
-
-git clone <repository url> for cloning
-
-git branch newbranch
-
-echo "new file">new.txt
